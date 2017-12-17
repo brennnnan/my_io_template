@@ -1,0 +1,19 @@
+{
+  "name": "brennan-node",
+  "version": "1.0.0",
+  "description": "template for io game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennnnan/io_template.git"
+  },
+  "author": "brennnnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennnnan/io_template/issues"
+  },
+  "homepage": "https://github.com/brennnnan/io_template#readme"
+}
